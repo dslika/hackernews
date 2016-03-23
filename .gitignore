@@ -1,0 +1,8 @@
+## Directory-based project format:
+.idea/
+
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+dump
+settings.json
