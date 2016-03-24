@@ -25,3 +25,5 @@ accounts-password
 useraccounts:bootstrap
 msavin:mongol
 useraccounts:iron-routing
+accounts-google
+service-configuration
