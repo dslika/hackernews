@@ -19,9 +19,15 @@ ecmascript              # Enable ECMAScript2015+ syntax in app code
 twbs:bootstrap
 iron:router
 sacha:spin
+
 accounts-password
+
 useraccounts:bootstrap
-msavin:mongol
 useraccounts:iron-routing
-accounts-google
+
 service-configuration
+accounts-google
+
+msavin:mongol
+check
+underscore
