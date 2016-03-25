@@ -20,5 +20,8 @@ Template.postSubmit.events({
 
       Router.go('postPage', {_id: result._id});
     });
+
+    // Latency Compensation test.
+    // Router.go('postsList');
   }
 });
